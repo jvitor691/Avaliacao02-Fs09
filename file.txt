@@ -5,3 +5,4 @@ file 01 line 04
 file 01 line 05
 file 01 line 06
 file 01 line 07
+file 01 line 08
