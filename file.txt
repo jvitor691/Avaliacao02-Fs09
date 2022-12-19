@@ -1,6 +1,0 @@
-file 01 line 01
-file 01 line 02
-file 01 line 03
-file 01 line 04
-file 01 line 05
-file 01 line 06
